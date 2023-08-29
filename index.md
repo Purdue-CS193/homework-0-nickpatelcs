@@ -1,14 +1,12 @@
-## Nick Patel HW0 Test
+# Nick Patel's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+- Easy
+- No exams
+- Once a week
+- About CS
+- Fun instructors
+  
+```Guide
 Syntax highlighted code block
 
 # Header 1
